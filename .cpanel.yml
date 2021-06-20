@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/clickimagine/public_html/
+    - export DEPLOYPATH=/home/clickimagine/public_html/webtechpie.com/
     - /bin/cp -R * $DEPLOYPATH
